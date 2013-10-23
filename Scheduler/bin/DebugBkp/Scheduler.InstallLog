@@ -1,0 +1,32 @@
+﻿Installing assembly 'D:\Importants\Scheduler\Scheduler\bin\Debug\Scheduler.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Importants\Scheduler\Scheduler\bin\Debug\Scheduler.InstallLog
+   assemblypath = D:\Importants\Scheduler\Scheduler\bin\Debug\Scheduler.exe
+   logtoconsole = 
+Installing service Scheduler...
+Service Scheduler has been successfully installed.
+Creating EventLog source Scheduler in log Application...
+Committing assembly 'D:\Importants\Scheduler\Scheduler\bin\Debug\Scheduler.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Importants\Scheduler\Scheduler\bin\Debug\Scheduler.InstallLog
+   assemblypath = D:\Importants\Scheduler\Scheduler\bin\Debug\Scheduler.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\Importants\Scheduler\Scheduler\bin\Debug\Scheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Importants\Scheduler\Scheduler\bin\Debug\Scheduler.InstallLog
+   assemblypath = D:\Importants\Scheduler\Scheduler\bin\Debug\Scheduler.exe
+Removing EventLog source Scheduler.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'D:\Importants\Scheduler\Scheduler\bin\Debug\Scheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Importants\Scheduler\Scheduler\bin\Debug\Scheduler.InstallLog
+   assemblypath = D:\Importants\Scheduler\Scheduler\bin\Debug\Scheduler.exe
+Removing EventLog source Scheduler.
+Service Scheduler is being removed from the system...
+Service Scheduler was successfully removed from the system.

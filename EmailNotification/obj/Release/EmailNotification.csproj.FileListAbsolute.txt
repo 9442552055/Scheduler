@@ -1,0 +1,7 @@
+D:\Importants\Scheduler\EmailNotification\bin\Release\EmailNotification.dll
+D:\Importants\Scheduler\EmailNotification\bin\Release\EmailNotification.pdb
+D:\Importants\Scheduler\EmailNotification\bin\Release\Scheduler.Base.dll
+D:\Importants\Scheduler\EmailNotification\bin\Release\Scheduler.Base.pdb
+D:\Importants\Scheduler\EmailNotification\obj\Release\EmailNotification.csprojResolveAssemblyReference.cache
+D:\Importants\Scheduler\EmailNotification\obj\Release\EmailNotification.dll
+D:\Importants\Scheduler\EmailNotification\obj\Release\EmailNotification.pdb

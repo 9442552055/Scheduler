@@ -1,0 +1,4 @@
+D:\Importants\Scheduler\SchedulerBase\bin\Release\SchedulerBase.dll
+D:\Importants\Scheduler\SchedulerBase\bin\Release\SchedulerBase.pdb
+D:\Importants\Scheduler\SchedulerBase\obj\Release\SchedulerBase.dll
+D:\Importants\Scheduler\SchedulerBase\obj\Release\SchedulerBase.pdb

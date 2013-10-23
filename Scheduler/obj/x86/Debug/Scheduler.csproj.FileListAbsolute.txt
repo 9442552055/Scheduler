@@ -1,0 +1,13 @@
+D:\Importants\Scheduler\Scheduler\bin\Debug\Scheduler.exe
+D:\Importants\Scheduler\Scheduler\bin\Debug\Scheduler.pdb
+D:\Importants\Scheduler\Scheduler\obj\x86\Debug\Scheduler.Service.resources
+D:\Importants\Scheduler\Scheduler\obj\x86\Debug\Scheduler.csproj.GenerateResource.Cache
+D:\Importants\Scheduler\Scheduler\obj\x86\Debug\Scheduler.exe
+D:\Importants\Scheduler\Scheduler\obj\x86\Debug\Scheduler.pdb
+D:\Importants\Scheduler\Scheduler\bin\Debug\Scheduler.exe.config
+D:\Importants\Scheduler\Scheduler\obj\x86\Debug\Scheduler.csprojResolveAssemblyReference.cache
+D:\Importants\Scheduler\Scheduler\bin\Debug\Scheduler.Base.dll
+D:\Importants\Scheduler\Scheduler\bin\Debug\TextLogger.dll
+D:\Importants\Scheduler\Scheduler\bin\Debug\Scheduler.Base.pdb
+D:\Importants\Scheduler\Scheduler\bin\Debug\TextLogger.pdb
+D:\Importants\Scheduler\Scheduler\bin\Debug\ScheduleConfigDB.sdf

@@ -1,0 +1,12 @@
+D:\Importants\Scheduler\Scheduler\bin\Release\Scheduler.exe
+D:\Importants\Scheduler\Scheduler\bin\Release\Scheduler.pdb
+D:\Importants\Scheduler\Scheduler\obj\x86\Release\Scheduler.exe
+D:\Importants\Scheduler\Scheduler\obj\x86\Release\Scheduler.pdb
+D:\Importants\Scheduler\Scheduler\obj\x86\Release\Scheduler.Service.resources
+D:\Importants\Scheduler\Scheduler\obj\x86\Release\Scheduler.csproj.GenerateResource.Cache
+D:\Importants\Scheduler\Scheduler\bin\Release\Scheduler.exe.config
+D:\Importants\Scheduler\Scheduler\obj\x86\Release\Scheduler.csprojResolveAssemblyReference.cache
+D:\Importants\Scheduler\Scheduler\bin\Release\Scheduler.Base.dll
+D:\Importants\Scheduler\Scheduler\bin\Release\TextLogger.dll
+D:\Importants\Scheduler\Scheduler\bin\Release\Scheduler.Base.pdb
+D:\Importants\Scheduler\Scheduler\bin\Release\TextLogger.pdb

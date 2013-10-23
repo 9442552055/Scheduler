@@ -1,0 +1,15 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace Scheduler
+{
+    //public class ScheduleConfig
+    //{
+    //    public string ApplicationName { get; set; }
+    //    public string ApplicationNameWithPath { get; set; }
+    //    public double SchedulePeriodicityInMins { get; set; }
+    //    public bool Enabled { get; set; }
+    //}
+}

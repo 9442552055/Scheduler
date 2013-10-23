@@ -1,0 +1,4 @@
+D:\Importants\Scheduler\ErrorLogger\bin\Debug\TextLogger.dll
+D:\Importants\Scheduler\ErrorLogger\bin\Debug\TextLogger.pdb
+D:\Importants\Scheduler\ErrorLogger\obj\x86\Debug\TextLogger.dll
+D:\Importants\Scheduler\ErrorLogger\obj\x86\Debug\TextLogger.pdb

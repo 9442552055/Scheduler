@@ -1,0 +1,7 @@
+D:\Importants\Scheduler\EmailNotification\bin\Debug\EmailNotification.dll
+D:\Importants\Scheduler\EmailNotification\bin\Debug\EmailNotification.pdb
+D:\Importants\Scheduler\EmailNotification\bin\Debug\Scheduler.Base.dll
+D:\Importants\Scheduler\EmailNotification\bin\Debug\Scheduler.Base.pdb
+D:\Importants\Scheduler\EmailNotification\obj\Debug\EmailNotification.csprojResolveAssemblyReference.cache
+D:\Importants\Scheduler\EmailNotification\obj\Debug\EmailNotification.dll
+D:\Importants\Scheduler\EmailNotification\obj\Debug\EmailNotification.pdb

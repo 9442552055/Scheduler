@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ScheduleConfigDBModelStoreContainer" CdmEntityContainer="ScheduleConfigDBEntities">
+    <EntitySetMapping Name="ScheduleConfigurations">
+      <EntityTypeMapping TypeName="ScheduleConfigDBModel.ScheduleConfiguration">
+        <MappingFragment StoreEntitySet="ScheduleConfigurations">
+          <ScalarProperty Name="AssemblyName" ColumnName="AssemblyName" />
+          <ScalarProperty Name="TypeName" ColumnName="TypeName" />
+          <ScalarProperty Name="Interval" ColumnName="Interval" />
+          <ScalarProperty Name="DueTime" ColumnName="DueTime" />
+          <ScalarProperty Name="Paused" ColumnName="Paused" />
+          <ScalarProperty Name="CanPause" ColumnName="CanPause" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
