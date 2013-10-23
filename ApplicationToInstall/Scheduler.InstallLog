@@ -1,0 +1,46 @@
+﻿Installing assembly 'D:\Debug\Scheduler.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Debug\Scheduler.InstallLog
+   assemblypath = D:\Debug\Scheduler.exe
+   logtoconsole = 
+Installing service Scheduler...
+Service Scheduler has been successfully installed.
+Creating EventLog source Scheduler in log Application...
+Committing assembly 'D:\Debug\Scheduler.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Debug\Scheduler.InstallLog
+   assemblypath = D:\Debug\Scheduler.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\Debug\Scheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Debug\Scheduler.InstallLog
+   assemblypath = D:\Debug\Scheduler.exe
+Removing EventLog source Scheduler.
+Service Scheduler is being removed from the system...
+Service Scheduler was successfully removed from the system.
+Installing assembly 'D:\Debug\Scheduler.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Debug\Scheduler.InstallLog
+   assemblypath = D:\Debug\Scheduler.exe
+   logtoconsole = 
+Installing service Scheduler...
+Service Scheduler has been successfully installed.
+Creating EventLog source Scheduler in log Application...
+Committing assembly 'D:\Debug\Scheduler.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Debug\Scheduler.InstallLog
+   assemblypath = D:\Debug\Scheduler.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\Debug\Scheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Debug\Scheduler.InstallLog
+   assemblypath = D:\Debug\Scheduler.exe
+Removing EventLog source Scheduler.
+Service Scheduler is being removed from the system...
+Service Scheduler was successfully removed from the system.
